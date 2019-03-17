@@ -1,8 +1,6 @@
 # mixin-free-token-generator
-A python flask code to generate auth_token for creating mixin network account for free and secure
-# Python Bitcoin tutorial based on Mixin Network
 ![cover](https://github.com/wenewzhang/mixin_labs-python-bot/raw/master/Bitcoin_python.jpg)
-This a command line bitcoin/altcoin wallet written in python script based on Mixin Network.
+A python flask code to generate auth_token for creating mixin network account for free and secure
 
 Full Mixin network resource [index](https://github.com/awesome-mixin-network/index_of_Mixin_Network_resource)
 
