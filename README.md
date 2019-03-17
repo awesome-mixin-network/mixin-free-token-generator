@@ -103,3 +103,9 @@ pip install -r requirements.txt
 ```bash
 FLASK_APP=freetoken.py flask run --host=0.0.0.0
 ```
+
+## run code in daemon mode
+```bash
+pip install gunicorn
+gunicorn -w 4 freetoken:app --bind=0.0.0.0:80 --name grand56 --daemon
+```
