@@ -99,3 +99,7 @@ pip install -r requirements.txt
 ```
 
 
+## run code in development mode
+```bash
+FLASK_APP=freetoken.py flask run --host=0.0.0.0
+```
